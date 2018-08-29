@@ -1,5 +1,4 @@
-# machine-learning
-Useful resources for machine learning.
+# Useful resources for machine learning.
 
 This page documents various links and resources for machine learning.
 
